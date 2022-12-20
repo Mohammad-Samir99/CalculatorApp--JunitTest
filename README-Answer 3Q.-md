@@ -1,0 +1,19 @@
+
+1- What Is Junit ? 
+
+JUnit is an open-source framework that is used for writing and executing unit tests in Java programming language. It is one of the best-known unit testing frameworks.
+
+Unit has several graphs that represent the progress of a test. When the test runs smoothly, the graph displays a green color, and it turns red if the test fails. JUnit Testing enables developers to develop highly reliable and bug-free code.
+
+
+ 2- What is unit test ?
+
+A unit test is a type of software test that focuses on components of a software product. The purpose is to ensure that each unit of software code works as expected. A unit can be a function, method, module, object, or other entity in an application’s source code. 
+
+The objective of a unit test is to test an entity in the code, ensure that it is coded correctly with no errors, and that it returns the expected outputs for all relevant inputs.
+
+
+3- What is the diff between junit and unit tes ? 
+
+JUnit framework was initially based on the SUnit framework which is used for Unit testing but then later it was updated with Java using Selenium WebDriver. JUnit is now is used as a standard when we need to perform testing in Java.
+
